@@ -1,17 +1,17 @@
+
 # Network Design, Implementation and Security
 
 ![Network_diagram](images/attempt_Final.png)
 
-This Lab is about implementing an on-premise computer network infrastructure for a business. From designing the network, deploying the hardwares, to deploying and configuring the servers and the workstations.
+This lab focuses on implementing an on premise computer network infrastructure for a business. It involves designing the network, deploying the hardware, and configuring the servers and workstations.
 
-This is a completly virtualized environment so everything will run through an hypervisor. I went with a type 2, VMware Workstation. This can also be archieved with a type 1 hypervisor but you will need a dedicated station. 
+The entire setup is virtualized, meaning that everything will run through a hypervisor. I will work with VMware Workstation as a type 2 hypervisor for this purpose. It is also possible to achieve this with a type 1 hypervisor, but that requires a dedicated station.
 
-The top layer diagram above show what my physical workstation looks like and the bottom layer what to expect from this lab. 
+The diagram above shows the layout of my physical workstation at the top layer and provides an overview of what to expect from this lab at the bottom layer.
 
-I will link a video for each part of this lab.
+I will link a video for each part of this lab to make thinks easier to .
 
-Before getting started, make sure you download and gather all the files (ISO, softwares...) you will need for this lab into one folder on your host computer. Later on, you will enable `Folder Sharing` in Vmware workstation pointing to that folder. Then set up a file server pointing to that folder to make your deployments easier.
-
+Before you begin, make sure to download and gather all the necessary files (ISO, software, etc.) into a single folder on your host computer. Later on, you will enable Folder Sharing in VMware Workstation and point it to that folder. Then, set up a file server that points to the same folder to simplify your deployments.
 
 ### Installing VMware workstation
 
