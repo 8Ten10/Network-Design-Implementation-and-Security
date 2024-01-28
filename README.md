@@ -1,7 +1,7 @@
 
 # Network Design, Implementation and Security
 
-![Network_diagram](images/Updated_Diag.png)
+![Network_diagram](images/bottom_Diag.png)
 
 This lab focuses on implementing an on premise computer network infrastructure for a business. It involves designing the network, deploying the hardware, and configuring the servers and workstations.
 
